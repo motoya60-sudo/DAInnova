@@ -1,0 +1,38 @@
+export const IMAGES = [
+  {
+    id: 1,
+    project_id: 10,
+    file_path: "../../assets/IP160416TAN000101000_03.jpg",
+    is_secondary_use_ok: true,
+    municipality: "阿蘇神社",
+    metadata: { width: 640, height: 480 },
+    uploaded_at: "2025-10-01T12:34:56Z",
+  },
+  {
+    id: 2,
+    project_id: 10,
+    file_path: "../../assets/IP240519TAN000009000_01.jpg",
+    is_secondary_use_ok: true,
+    municipality: "熊本城",
+    metadata: { width: 640, height: 480 },
+    uploaded_at: "2025-10-02T09:20:00Z",
+  },
+  {
+    id: 3,
+    project_id: 10,
+    file_path: "../../assets/IP220218TAN000078000_02.jpg",
+    is_secondary_use_ok: false,
+    municipality: "熊本城",
+    metadata: { width: 640, height: 480 },
+    uploaded_at: "2025-10-03T09:20:00Z",
+  },
+  {
+    id: 4,
+    project_id: 11,
+    file_path: "../../assets/IP160518TAN000245000_03.jpg",
+    is_secondary_use_ok: true,
+    municipality: "西原村",
+    metadata: { width: 640, height: 480 },
+    uploaded_at: "2025-10-04T09:20:00Z",
+  },
+];

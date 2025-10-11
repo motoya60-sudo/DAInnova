@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const 3Dmap = () => {
+const Map3D = () => {
   return (
     <div>3Dmap</div>
   )
 }
+
+export default Map3D
