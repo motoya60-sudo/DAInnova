@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const CreateArchive = () => {
+const CreateArchive = () => {
   return (
     <div>CreateArchive</div>
   )
 }
+
+export default CreateArchive

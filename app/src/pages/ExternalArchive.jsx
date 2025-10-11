@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const ExternalArchive = () => {
+const ExternalArchive = () => {
   return (
     <div>ExternalArchive</div>
   )
 }
+
+export default ExternalArchive
